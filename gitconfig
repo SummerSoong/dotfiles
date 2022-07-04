@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = summerrock1017@gmail.com
+	name = mengrui song
